@@ -1,6 +1,6 @@
 # meeliebug
 
-![Build Status](https://github.com/meeliebug/meeliebug/actions/workflows/dockerimage.yml/badge.svg)
+![Build Status](https://github.com/greyhammer/meeliebug/actions/workflows/dockerimage.yml/badge.svg)
 
 Personal Website for Ashley Janak
 
